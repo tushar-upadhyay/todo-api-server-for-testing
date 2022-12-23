@@ -1,6 +1,6 @@
 {
-  "todos": [{
+  "todo": {
     "title":{"string",{}},
     "id":{"int",{}}
-  }]
+  }
 }
