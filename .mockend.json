@@ -1,6 +1,6 @@
 {
   "todo": {
-    "title":{"string",{}},
-    "id":{"int",{}}
+    "title":{"string":{}},
+    "id":{"int":{}}
   }
 }
